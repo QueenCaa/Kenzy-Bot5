@@ -527,7 +527,7 @@ day: 'numeric',
 month: 'long',
 year: 'numeric'
        })
-                teks = `**hayyie welcome @${num.split('@')[0]} in ${mdata.subject} utamain baca desk ya ka , semoga betah👋🏻*
+                teks = `*hayyie welcome @${num.split('@')[0]} in ${mdata.subject} utamain baca desk ya ka , semoga betah👋🏻*
 
 ║▌│█║▌│ █║▌│█│║▌║
    *𖣠۰ 🌷! bot caa 𒀭꒷*`;
